@@ -1,0 +1,1 @@
+export const api='https://deployment-practice-backend-hm6g.onrender.com';
